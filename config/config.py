@@ -26,7 +26,7 @@ SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "360"))  # R
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002563485663"))
 
 # A name for your Music bot.
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","𝐃𝐔𝐑𝐔 𝐌𝐔𝐙𝐈𝐊 𝐁𝐎𝐓")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","Durumusic")
 
 # Your User ID.
 OWNER_ID = list(map(int, getenv("OWNER_ID", "7639539072").split()))  # Input type must be integer
