@@ -116,7 +116,6 @@ Enhance your group chat experience with seamless music and video streaming.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## **_Special thanks to_**
-**_[TeamYukki](https://github.com/TeamYukki)_** **_For Project Base_**
 
 **_[Py-tgcalls](https://github.com/pytgcalls)_** 
 
